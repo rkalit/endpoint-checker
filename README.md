@@ -13,6 +13,3 @@ payload= {
         'text': text
     }
 ```
-### Notes
----
-You can also run this as a service to run automatically even afther the restart of the server, by adding it to your systemd, to run the `checkRunner.py` file
